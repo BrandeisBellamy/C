@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 int hw1pt1()
 {
   float sale = 0.00;
