@@ -8,7 +8,7 @@ using the preceding formula.
 
 #include <stdio.h>
 
-int hw1pt2()
+int main()
 {
   float principal = 0.00;
   float rate = 0.00;
