@@ -9,7 +9,7 @@ Process one salesperson's figures at a time.
 
 #include <stdio.h>
 
-int hw1pt1()
+int main()
 {
   float sale = 0.00;
   float total = 0.00;
